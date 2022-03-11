@@ -1,6 +1,6 @@
 # interactive-fiction-engine
 
-Adding support for in-game items to the interactive fction engine.
+Adding support for in-game items to the interactive fiction engine.
 
 From the player perspective, items can be interacted with in-game. Every player has an inventory of items which is initially empty. 
 The player can take an item (remove it from the area and add it to the player inventory), leave an item (take it from the player 
