@@ -1,4 +1,4 @@
-%Interactive Fiction Document Format v2: by Daniel A. Ray
+%Interactive Fiction Document Format v2
 
 %this is a comment, any line that begins with % is ignored, comments must be on their own line
 % <areas>...</areas>, is the area definition block
