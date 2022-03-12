@@ -1,8 +1,5 @@
 // --------------------------------------------------------------------------
 // Name: Trey Dobbs
-// Course-Section: CS 255-01
-// Assignment: Project #6
-// Date Due: 11/20/2020
 // Description: This C++ project adds support for in-game items to our 
 // interactive fiction engine. Item support has been added to Area and
 // Player, the map constructor has been updated, five new commands including 
@@ -145,7 +142,7 @@ public:
 			else if (userInput == "help") {
 				cout << "You may type: " << endl;
 				cout << "\t u, d, l, or r: to move up, down, left or right on the map," << endl;
-				cout << "\t inventory: prints out the name of all the items currently in the player’s inventory." << endl;
+				cout << "\t inventory: prints out the name of all the items currently in the playerâ€™s inventory." << endl;
 				cout << "\t search: to print out the name of all the items in a specific area." << endl;
                 cout << "\t take: to take an item from the current area and add an item to your inventory." << endl;
 				cout << "\t leave: to remove an item from your inventory." << endl;
